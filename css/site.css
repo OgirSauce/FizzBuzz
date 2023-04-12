@@ -1,8 +1,17 @@
 :root{
-    --primary-color:#1d5888;
-    --secondary-color:#ff993b;
-    --dark-color:#292929;
+    --primary-color:#c40db4;
+    --secondary-color:#000000;
+    --dark-color:#c40db4;
     --white-color:#fdfdfd;
+}
+
+.neon {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+
+.FizzBuzz {
+    font-family: 'Bebas Neue', cursive;
 }
 
 body{
